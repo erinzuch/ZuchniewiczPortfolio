@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+}
+head {
+    text-align: center; 
+}
+body {
+    font-family: "Roboto";
+}
+
+div {
+    text-align: center; 
+}
+p {
+    text-align: center;
+    color: green; 
+}
+
+#img {
+    border: space-between; 
+    border-radius: 5px; 
+    box-shadow: 5px 10px; 
+    width: 100%;
+    height: auto; 
+}
+.form { 
+    justify-content: space-between
+    
+}
+/* mouse over link */
+a:hover {
+    color: hotpink;
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: blue;
+    }
+}
